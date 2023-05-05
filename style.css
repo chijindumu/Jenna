@@ -1,0 +1,19 @@
+@media (min-width: 760px){
+    .news-input{
+        width: 55%;
+    }
+}
+a{
+    text-decoration: none;
+}
+.img{
+    max-width: 52%;
+}
+.logo{
+    filter: invert();
+    max-width: 10%;
+}
+.logo-text{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    /*color: #D68054;*/
+}
